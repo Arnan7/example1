@@ -7,3 +7,5 @@ days = {
     "sabado":6,
     "domingo":7
     }
+
+print(days["lunes"])
