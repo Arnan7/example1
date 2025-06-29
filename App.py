@@ -10,3 +10,4 @@ days = {
 
 print(days["lunes"])
 print("Imprimiendo mensaje final")
+print(days["martes"])
