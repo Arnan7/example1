@@ -12,3 +12,5 @@ print(days["lunes"])
 print("Imprimiendo mensaje final")
 print(days["martes"])
 print("Imprimiendo mensaje final 2")
+print(days["miercoles"])
+ 
